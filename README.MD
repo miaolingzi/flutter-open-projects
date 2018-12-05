@@ -25,8 +25,9 @@
 | :----------------------------------------------------------: | :-------: |
 |  [RealRichText](https://github.com/bytedance/RealRichText)   | bytedance |
 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | iampawan  |
+| [flutter_movie](https://github.com/WuXiaolong/flutter_movie) | WuXiaolong  |
 
-### 博客
+### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
 [Flutter 扩展NestedScrollView （一）Pinned头引起的bug解决](https://juejin.im/post/5bea43ade51d45544844010a)  
 [Flutter 扩展NestedScrollView （二）列表滚动同步解决](https://juejin.im/post/5bea90c6e51d450319791b2e)  
@@ -47,3 +48,9 @@
 [Flutter提升开发效率的一些方法和工具](https://juejin.im/post/5bffea7551882505d840503a)  
 [Flutter接入现有Android工程踩坑之旅](https://juejin.im/post/5c0399086fb9a04a006ec100)  
 [Flutter填坑全面总结](https://juejin.im/post/5c00ce886fb9a049ca371388)  
+[Flutter 轻松构建加载更多(loading more)](https://juejin.im/post/5bfb9cb7e51d45592b766769)  
+
+### Blog From Medium
+[Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
+[lutter hands on: Building a News App](https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f)  
+[Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)  
