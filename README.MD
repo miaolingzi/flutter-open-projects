@@ -1,5 +1,5 @@
-# Flutter开源项目汇总
-
+# Flutter开源项目汇总  
+A categorized collection of Flutter Open Source Projects and Blogs
 
 
 掘金客户端
@@ -49,8 +49,14 @@
 [Flutter接入现有Android工程踩坑之旅](https://juejin.im/post/5c0399086fb9a04a006ec100)  
 [Flutter填坑全面总结](https://juejin.im/post/5c00ce886fb9a049ca371388)  
 [Flutter 轻松构建加载更多(loading more)](https://juejin.im/post/5bfb9cb7e51d45592b766769)  
+[用Flutter实现一个仿Twitter的点赞效果](https://juejin.im/post/5bf01b7d51882516fa638069)  
+[两个星期，用Flutter撸个APP](https://juejin.im/post/5bf2b829e51d4514df5b720d)  
+[Flutter入门学习：Flutter简介以及在macOS上搭建Flutter开发环境](https://juejin.im/post/5bf61a496fb9a049a62c34c0)  
+[[译] 使用 Flutter、Material Theming 和官方 Material Components（MDC）构建美观，灵活的用户界面](https://juejin.im/post/5c07d8a7518825778a56b80f)  
+[在Flutter中使用Flare构建的动画](https://juejin.im/post/5c0a9c486fb9a049c84f4556)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
 [lutter hands on: Building a News App](https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f)  
 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)  
+[Building beautiful, flexible user interfaces with Flutter, Material Theming, and official Material Components (MDC)](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  
