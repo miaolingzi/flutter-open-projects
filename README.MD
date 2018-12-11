@@ -26,6 +26,13 @@ A categorized collection of Flutter Open Source Projects and Blogs
 |  [RealRichText](https://github.com/bytedance/RealRichText)   | bytedance |
 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | iampawan  |
 | [flutter_movie](https://github.com/WuXiaolong/flutter_movie) | WuXiaolong  |
+| [flutter-by-example](https://github.com/mjohnsullivan/flutter-by-example) | mjohnsullivan |
+| [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) | brianegan |
+| [samples](https://github.com/flutter/samples) | flutter |
+| [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) | iampawan |
+| [flutterflip](https://github.com/redbrogdon/flutterflip) | redbrogdon |
+| [WhatTodo](https://github.com/burhanrashid52/WhatTodo) | burhanrashid52 |
+| [inKino](https://github.com/roughike/inKino) | roughike |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -60,3 +67,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [lutter hands on: Building a News App](https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f)  
 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)  
 [Building beautiful, flexible user interfaces with Flutter, Material Theming, and official Material Components (MDC)](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  
+[Flutter For Android Developers : How to design LinearLayout in Flutter.](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)  
+
+### Blog From Stackoverflow
+[Equivalent of RelativeLayout in Flutter](https://stackoverflow.com/questions/44396075/equivalent-of-relativelayout-in-flutter)  
