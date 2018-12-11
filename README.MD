@@ -33,6 +33,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [flutterflip](https://github.com/redbrogdon/flutterflip) | redbrogdon |
 | [WhatTodo](https://github.com/burhanrashid52/WhatTodo) | burhanrashid52 |
 | [inKino](https://github.com/roughike/inKino) | roughike |
+| [flutter-examples](https://github.com/nisrulz/flutter-examples) | nisrulz |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
