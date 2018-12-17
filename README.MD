@@ -34,6 +34,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [WhatTodo](https://github.com/burhanrashid52/WhatTodo) | burhanrashid52 |
 | [inKino](https://github.com/roughike/inKino) | roughike |
 | [flutter-examples](https://github.com/nisrulz/flutter-examples) | nisrulz |
+| [flutter_bloc_architecture_demo](https://github.com/jiang111/flutter_bloc_architecture_demo) | jiang111 |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -62,6 +63,18 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter入门学习：Flutter简介以及在macOS上搭建Flutter开发环境](https://juejin.im/post/5bf61a496fb9a049a62c34c0)  
 [[译] 使用 Flutter、Material Theming 和官方 Material Components（MDC）构建美观，灵活的用户界面](https://juejin.im/post/5c07d8a7518825778a56b80f)  
 [在Flutter中使用Flare构建的动画](https://juejin.im/post/5c0a9c486fb9a049c84f4556)  
+[Flutter中的Image入门讲解](https://juejin.im/post/5c10871ae51d451402773231)  
+[Flutter视图的Layout与Paint](https://juejin.im/post/5c0fc3cb5188251da07e09b3)  
+[Flutter仿微信，支付宝密码输入框+自定义键盘](https://juejin.im/post/5c10ef31e51d452e2c698673)  
+[Flutter 性能优化 Tips](https://juejin.im/post/5c123e7d6fb9a049df23f12e)  
+[Flutter iOS减包方案](https://juejin.im/post/5c0dd22ce51d455fc5426bb2)  
+[深入Flutter TextField](https://juejin.im/post/5c12250af265da61590b8b20)  
+[Flutter中的路由](https://juejin.im/post/5c14a2e0e51d454827178e0e)  
+[Flutter组件化开发方案](https://juejin.im/post/5c14cd8351882509e0270818)  
+[Flutter 实现平滑曲线折线图](https://juejin.im/post/5c14891ef265da61616e956b)  
+[Flutter持续化集成上的演进之路](https://juejin.im/post/5c15ded36fb9a049ba4178a6)  
+[Flutter第1天--初始分析+Dart方言+Canvas简绘](https://juejin.im/post/5c1637fe6fb9a049d5196438)  
+[Flutter混合开发组件化与工程化](http://zhengxiaoyong.com/2018/12/16/Flutter%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91%E7%BB%84%E4%BB%B6%E5%8C%96%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%8C%96/)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
@@ -69,6 +82,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter Layout Cheat Sheet](https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e)  
 [Building beautiful, flexible user interfaces with Flutter, Material Theming, and official Material Components (MDC)](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  
 [Flutter For Android Developers : How to design LinearLayout in Flutter.](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)  
+[A Deep Dive Into Flutter TextField](https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a)  
 
 ### Blog From Stackoverflow
 [Equivalent of RelativeLayout in Flutter](https://stackoverflow.com/questions/44396075/equivalent-of-relativelayout-in-flutter)  
