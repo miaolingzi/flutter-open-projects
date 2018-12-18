@@ -75,6 +75,9 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter持续化集成上的演进之路](https://juejin.im/post/5c15ded36fb9a049ba4178a6)  
 [Flutter第1天--初始分析+Dart方言+Canvas简绘](https://juejin.im/post/5c1637fe6fb9a049d5196438)  
 [Flutter混合开发组件化与工程化](http://zhengxiaoyong.com/2018/12/16/Flutter%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91%E7%BB%84%E4%BB%B6%E5%8C%96%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%8C%96/)  
+[Flutter实践——实现一个动态页](https://juejin.im/post/5c177a6df265da61273d4c7a)  
+[Flutter第2天--Animation动画+粒子运动](https://juejin.im/post/5c176700f265da61602cd6ff)  
+[[译] MDC-101 Flutter：Material Components（MDC）基础（Flutter）](https://juejin.im/post/5c1758e6e51d451a77161ab5)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
