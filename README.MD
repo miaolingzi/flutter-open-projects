@@ -81,6 +81,14 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [快让Flutter应用跑PC上](https://juejin.im/post/5c18a187f265da615304b2c7)  
 [Flutter第3天--基础控件(上)](https://juejin.im/post/5c18d181f265da611f07a128)  
 [Flutter实战1 --- 写一个天气查询的APP](https://juejin.im/post/5c1921d5f265da612d1934aa)  
+[Flutter 插件开发：以微信SDK为例](https://juejin.im/post/5c1b41a6e51d454be8630347)  
+[Flutter第5天--布局实例+操作交互](https://juejin.im/post/5c1b7af2518825566d237655)  
+[Flutter实战2 --- 写一个天气查询的APP](https://juejin.im/post/5c1b78706fb9a049ac791f54)  
+[Flutter InkWell 动画浅析](https://juejin.im/post/5c1c813ee51d452429741587)  
+[Flutter第6天--异步-IO+网络访问+json](https://juejin.im/post/5c1cd2426fb9a049a711cb75)  
+[flutter版本的玩Android客户端](https://juejin.im/post/5c1cc151f265da6134386248)  
+[Flutter实战3 --- 检验Flutter的跨平台能力](https://juejin.im/post/5c1d09026fb9a04a027a55c8)  
+[Flutter第7天--字体图标+综合小案例+Android代码交互](https://juejin.im/post/5c1df995e51d451611220186)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
