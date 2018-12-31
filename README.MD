@@ -35,6 +35,9 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [inKino](https://github.com/roughike/inKino) | roughike |
 | [flutter-examples](https://github.com/nisrulz/flutter-examples) | nisrulz |
 | [flutter_bloc_architecture_demo](https://github.com/jiang111/flutter_bloc_architecture_demo) | jiang111 |
+| [wechat_clone_flutter](<https://github.com/iosyaowei/wechat_clone_flutter>) | iosyaowei |
+| [flutter-osc](https://github.com/yubo725/flutter-osc) | yubo725 |
+| [flutter_osc_clone](https://github.com/iosyaowei/flutter_osc_clone) | iosyaowei |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -89,6 +92,13 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [flutter版本的玩Android客户端](https://juejin.im/post/5c1cc151f265da6134386248)  
 [Flutter实战3 --- 检验Flutter的跨平台能力](https://juejin.im/post/5c1d09026fb9a04a027a55c8)  
 [Flutter第7天--字体图标+综合小案例+Android代码交互](https://juejin.im/post/5c1df995e51d451611220186)  
+[从源码分析TabBar的文字抖动问题](https://juejin.im/post/5c219d3d51882545e24f220d)  
+[Flutter 插件使用必知必会](https://juejin.im/post/5c206b4ff265da61327f52f4)  
+[用flutter编写炸弹人小游戏同时支持web和移动端](https://juejin.im/post/5c2034656fb9a049c43dac2d)  
+[Flutter 插件编写必知必会](https://juejin.im/post/5c22e9eff265da61715e5f46)  
+[Flutter布局详解/必知必会](https://juejin.im/post/5c2458d6f265da613a541349)  
+[Flutter视图的Layout与Paint](https://juejin.im/post/5c0fc3cb5188251da07e09b3)  
+[Flutter 弹出键盘认识](https://juejin.im/post/5c26c3946fb9a049ad77204d)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
@@ -97,6 +107,9 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Building beautiful, flexible user interfaces with Flutter, Material Theming, and official Material Components (MDC)](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  
 [Flutter For Android Developers : How to design LinearLayout in Flutter.](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)  
 [A Deep Dive Into Flutter TextField](https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a)  
+[Flutter : ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)  
+[Flutter: Advance Routing and Navigator](https://medium.com/@nitishk72/flutter-advance-routing-and-navigator-df0f86f0974f)  
+[Flutter: My FutureBuilder Keeps Firing!](https://medium.com/saugo360/flutter-my-futurebuilder-keeps-firing-6e774830bc2)  
 
 ### Blog From Stackoverflow
 [Equivalent of RelativeLayout in Flutter](https://stackoverflow.com/questions/44396075/equivalent-of-relativelayout-in-flutter)  
