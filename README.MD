@@ -1,24 +1,6 @@
 # Flutter开源项目汇总  
 A categorized collection of Flutter Open Source Projects and Blogs
 
-
-掘金客户端
-
-|                             项目                             |   作者    |
-| :----------------------------------------------------------: | :-------: |
-| [juejin_flutter](https://github.com/hanks-zyh/juejin_flutter) | hanks-zyh |
-
-玩Android客户端
-
-|                             项目                             |    作者    |
-| :----------------------------------------------------------: | :--------: |
-| [WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter) |  canhuah   |
-| [flutter_wan_android](https://github.com/Yonkers/flutter_wan_android) |  Yonkers   |
-| [flutter_wanandroid](https://github.com/JakeyYe/flutter_wanandroid) |  JakeyYe   |
-|    [WanAndroid](https://github.com/firefecker/WanAndroid)    | firefecker |
-|      [wanandroid](https://github.com/hurshi/wanandroid)      |   hurshi   |
-| [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) |   Sky24n   |
-
 开源项目
 
 |                             项目                             |   作者    |
@@ -38,6 +20,14 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [wechat_clone_flutter](<https://github.com/iosyaowei/wechat_clone_flutter>) | iosyaowei |
 | [flutter-osc](https://github.com/yubo725/flutter-osc) | yubo725 |
 | [flutter_osc_clone](https://github.com/iosyaowei/flutter_osc_clone) | iosyaowei |
+| [flutter_study](https://github.com/chinabrant/flutter_study) | chinabrant |
+| [juejin_flutter](https://github.com/hanks-zyh/juejin_flutter) | hanks-zyh |
+| [WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter) | canhuah |
+| [flutter_wan_android](https://github.com/Yonkers/flutter_wan_android) | Yonkers |
+| [flutter_wanandroid](https://github.com/JakeyYe/flutter_wanandroid) | JakeyYe |
+| [WanAndroid](https://github.com/firefecker/WanAndroid) | firefecker |
+| [wanandroid](https://github.com/hurshi/wanandroid) | hurshi |
+| [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | Sky24n |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -99,6 +89,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter布局详解/必知必会](https://juejin.im/post/5c2458d6f265da613a541349)  
 [Flutter视图的Layout与Paint](https://juejin.im/post/5c0fc3cb5188251da07e09b3)  
 [Flutter 弹出键盘认识](https://juejin.im/post/5c26c3946fb9a049ad77204d)  
+[深入分析 Flutter 初始化流程](https://juejin.im/post/5c2a3d2de51d45672d29a4f7)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
