@@ -28,6 +28,8 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [WanAndroid](https://github.com/firefecker/WanAndroid) | firefecker |
 | [wanandroid](https://github.com/hurshi/wanandroid) | hurshi |
 | [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | Sky24n |
+| [flustars](https://github.com/Sky24n/flustars) | Sky24n |
+| [GankFlutter](https://github.com/fujianlian/GankFlutter) | fujianlian |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -90,6 +92,11 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter视图的Layout与Paint](https://juejin.im/post/5c0fc3cb5188251da07e09b3)  
 [Flutter 弹出键盘认识](https://juejin.im/post/5c26c3946fb9a049ad77204d)  
 [深入分析 Flutter 初始化流程](https://juejin.im/post/5c2a3d2de51d45672d29a4f7)  
+[Flutter原理与美团的实践](https://blog.csdn.net/MeituanTech/article/details/81567238)  
+[Flutter 时间轴工具类TimelineUtil](https://www.jianshu.com/p/9164c11f00e9)  
+[微店的Flutter混合开发组件化与工程化架构](https://juejin.im/post/5c346ad8e51d4551ea7f0fdf)  
+[Flutter 扩展的联动Tabs](https://juejin.im/post/5c34b87ef265da61553b01a8)  
+[Flutter仿网易云音乐：播放界面](https://juejin.im/post/5c344d1ee51d4557db5a0140)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
