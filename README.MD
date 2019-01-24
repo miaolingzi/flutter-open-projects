@@ -30,6 +30,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | Sky24n |
 | [flustars](https://github.com/Sky24n/flustars) | Sky24n |
 | [GankFlutter](https://github.com/fujianlian/GankFlutter) | fujianlian |
+| [flutter_catalog](https://github.com/X-Wei/flutter_catalog) | X-Wei |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -97,6 +98,18 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [微店的Flutter混合开发组件化与工程化架构](https://juejin.im/post/5c346ad8e51d4551ea7f0fdf)  
 [Flutter 扩展的联动Tabs](https://juejin.im/post/5c34b87ef265da61553b01a8)  
 [Flutter仿网易云音乐：播放界面](https://juejin.im/post/5c344d1ee51d4557db5a0140)  
+[无需手写，自动生成Flutter/Dart实体类文件](https://juejin.im/post/5c36251ce51d45524473f79f)  
+[Flutter 25: 易忽略的【小而巧】的技术点汇总 (三)](https://yq.aliyun.com/articles/679206)  
+[Flutter超全开源框架、项目和学习资料汇总](https://www.jianshu.com/p/f5a4a28e2888)  
+[Flutter中的消息传递](https://juejin.im/post/5c39dd4fe51d455231347095)  
+[Flutter实战1 --- 写一个天气查询的APP](https://juejin.im/post/5c1921d5f265da612d1934aa)  
+[Flutter实战4 -- 天气查询APP重构之状态管理(InheritedWidget)](https://juejin.im/post/5c3ca2406fb9a04a09564a0b)  
+[Flutter BuildContext 探究](https://juejin.im/post/5c4169e4e51d45783b4b0168)  
+[Flutter 如何创建并发布 Plugin (VS Code + GitHub 发布)](https://juejin.im/post/5c417ee7f265da61641445a3)  
+[Flutter mixins 探究](https://juejin.im/post/5c44382d51882523f0261bb5)  
+[Flutter Animation（1）动画的简单使用](https://juejin.im/post/5c460919e51d4507fb1d7b94)  
+[Flutter初探分析](https://juejin.im/post/5c46af58e51d45030822984e)  
+[Flutter语法(1）:extends 、 implements 、 with的用法与区别](https://juejin.im/post/5c4881dae51d45098e4d96cf)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
@@ -108,6 +121,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter : ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)  
 [Flutter: Advance Routing and Navigator](https://medium.com/@nitishk72/flutter-advance-routing-and-navigator-df0f86f0974f)  
 [Flutter: My FutureBuilder Keeps Firing!](https://medium.com/saugo360/flutter-my-futurebuilder-keeps-firing-6e774830bc2)  
+[Clipping in Flutter](https://medium.com/flutter-community/clipping-in-flutter-e9eaa6b1721a)  
 
 ### Blog From Stackoverflow
 [Equivalent of RelativeLayout in Flutter](https://stackoverflow.com/questions/44396075/equivalent-of-relativelayout-in-flutter)  
