@@ -110,6 +110,15 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter Animation（1）动画的简单使用](https://juejin.im/post/5c460919e51d4507fb1d7b94)  
 [Flutter初探分析](https://juejin.im/post/5c46af58e51d45030822984e)  
 [Flutter语法(1）:extends 、 implements 、 with的用法与区别](https://juejin.im/post/5c4881dae51d45098e4d96cf)  
+[Flutter性能监控工具（1）--- Observatory](https://juejin.im/post/5c4c7634e51d453be80171c9)  
+[Flutter性能监控工具（2）--- Performance Overlay](https://juejin.im/post/5c4d3ef66fb9a049b13e95b7)  
+[Flutter性能监控工具（3）--- Observatory使用](https://juejin.im/post/5c4f1c6951882525a72458b6)  
+[Flutter 动画入门](https://juejin.im/post/5c4e5693e51d4533de6e22e3)  
+[Flutter进阶：在应用中实现 Hero(飞行) 动画](https://juejin.im/post/5c4dae0de51d456e41391586)  
+[Flutter技术调研报告](https://juejin.im/post/5c4e6dc66fb9a049eb3c516a)  
+[Flutter中的3D透视效果](https://juejin.im/post/5c4ff6665188252532091f50)  
+[Flutter/Dart中的异步](https://juejin.im/post/5c4875f86fb9a049ff4e78cf)  
+[Flutter实践：深入探索 flutter 中的状态管理方式（1）](https://juejin.im/post/5c52ce3b51882525331617d1)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
