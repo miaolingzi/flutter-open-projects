@@ -31,6 +31,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [flustars](https://github.com/Sky24n/flustars) | Sky24n |
 | [GankFlutter](https://github.com/fujianlian/GankFlutter) | fujianlian |
 | [flutter_catalog](https://github.com/X-Wei/flutter_catalog) | X-Wei |
+| [awesome-flutter](https://github.com/Solido/awesome-flutter) | Solido |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -119,6 +120,10 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter中的3D透视效果](https://juejin.im/post/5c4ff6665188252532091f50)  
 [Flutter/Dart中的异步](https://juejin.im/post/5c4875f86fb9a049ff4e78cf)  
 [Flutter实践：深入探索 flutter 中的状态管理方式（1）](https://juejin.im/post/5c52ce3b51882525331617d1)  
+[Flutter 特定页面切换屏幕方向/iOS强制横屏/SystemChrome.setPreferredOrientations不起作用 看这里!](https://juejin.im/post/5c68da17f265da2da53ebaef)  
+[Flutter中使用sqlite](https://juejin.im/post/5c69973451882562851b3c79)  
+[Flutter交互实战－即刻App探索页下拉＆拖拽效果](https://juejin.im/post/5c7c72de5188253ec91e3093)  
+[设计、开发一个 Flutter Plugin 的实践心得](https://juejin.im/post/5c7f296e6fb9a049bd430efa)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
