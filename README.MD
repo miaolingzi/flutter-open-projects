@@ -32,6 +32,8 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [GankFlutter](https://github.com/fujianlian/GankFlutter) | fujianlian |
 | [flutter_catalog](https://github.com/X-Wei/flutter_catalog) | X-Wei |
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Solido |
+| [flutter_github](https://github.com/dlgchg/flutter_github) | dlgchg |
+| [flutter_dandu](<https://github.com/daomoer/flutter_dandu>) | daomoer |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -124,6 +126,36 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter中使用sqlite](https://juejin.im/post/5c69973451882562851b3c79)  
 [Flutter交互实战－即刻App探索页下拉＆拖拽效果](https://juejin.im/post/5c7c72de5188253ec91e3093)  
 [设计、开发一个 Flutter Plugin 的实践心得](https://juejin.im/post/5c7f296e6fb9a049bd430efa)  
+[Flutter框架分析（一）-- 总览和Window](https://juejin.im/post/5c7cd2f4e51d4537b05b0974)  
+[Dart的内存回收机制介绍](https://juejin.im/post/5c7e0c255188250a432388d8)  
+[Flutter动态化探索](https://juejin.im/entry/5c85c959f265da2d881b5eb8)  
+[Flutter-Http分块下载与断点续传](https://juejin.im/post/5c8636d86fb9a049fc0459b7)  
+[Flutter 自定义绘制 View](https://juejin.im/post/5c8da2caf265da2d92632fdd)  
+[Flutter入门篇（三）— 如何实现登录动画效果](https://juejin.im/post/5c8e6c11e51d4563131011fc)  
+[Flutter学习之事件循环机制、数据库、网络请求](https://juejin.im/post/5c698a606fb9a049d81c63df)  
+[Flutter 路由源码解析](https://juejin.im/post/5c8db8fff265da2de52dd80f)  
+[Flutter Engine与SDK的定制化与编译](https://juejin.im/entry/5c8e0eaef265da681c1f1aea)  
+[一波Flutter酷炫特效来袭，持续更新](https://juejin.im/post/5c8ef191e51d4554670f56cd)  
+[Flutter中网络图片加载和缓存](https://juejin.im/post/5c8f3edbf265da6112563061)  
+[Flutter RichText支持图片显示和自定义图片效果](https://juejin.im/post/5c8be0d06fb9a049a42ff067)  
+[Flutter 实现原理及跨平台实践](https://juejin.im/entry/5c982f80f265da611c557923)  
+[Flutter学习之插件开发、自定义字体、国际化](https://juejin.im/post/5c7a1558e51d453ed5290574)  
+[Flutter与原生解耦式混合开发](https://juejin.im/post/5c9b4cee5188253075032ace)  
+[从 Flutter 的视频渲染到 App 落地经验](https://juejin.im/post/5c9c28b251882536a65c85aa)  
+[Flutter WebView与JS交互简易指南](https://juejin.im/post/5ca1da31e51d4509ea3d0540)  
+[Flutter学习之视图体系](https://juejin.im/post/5c99ce54e51d455a3142aaa6)  
+[Flutter](https://juejin.im/tag/Flutter)  
+[Flutter混合Android](https://juejin.im/post/5cad4430f265da035d0c5e99)  
+[Flutter 学习之路 - 测试（单元测试，Widget 测试，集成测试）](https://juejin.im/post/5cad03f76fb9a0688360ec62)  
+[简单项目实战flutter（布局篇）](https://juejin.im/post/5cad48286fb9a0688777b7fc)  
+[Flutter倒计时/计时器的实现](https://juejin.im/post/5cada409e51d456e5b66ad1b)  
+[Flutter 启动页(闪屏页)具体实现和原理分析](https://juejin.im/post/5cb037916fb9a068b47b687e)  
+[Flutter完整开发实战详解(十、 深入图片加载流程)](https://juejin.im/post/5cb1896ce51d456e63760449)  
+[Flutter插件开发](https://juejin.im/post/5cb3d9eae51d456e8240dcbf)  
+[Flutter自定义绘制Widget初探](https://juejin.im/post/5cb56f5ef265da03474df6b5)  
+[Flutter自定义控件第一式，炫酷“蛛网”控件](https://juejin.im/post/5cb872075188253247129b87)  
+[使用Flutter仿写TikTok的手势交互](https://juejin.im/post/5cbadb71f265da037c7ce19f)  
+[一波Flutter酷炫特效来袭](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247487701&idx=1&sn=f9f650709cdc87fbaa83528e00f704dd&chksm=eb477c4bdc30f55d2329fb1d7240369eee0f9ff15bddca9a91a4abc880d052861d2738a576a4&scene=21#wechat_redirect)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
