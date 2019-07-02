@@ -34,6 +34,11 @@ A categorized collection of Flutter Open Source Projects and Blogs
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Solido |
 | [flutter_github](https://github.com/dlgchg/flutter_github) | dlgchg |
 | [flutter_dandu](<https://github.com/daomoer/flutter_dandu>) | daomoer |
+| [flutter_challenge_googlemaps](https://github.com/flutter-ui-challenges/flutter_challenge_googlemaps) | flutter-ui-challenges |
+| [flutter-boss-server](https://github.com/heruijun/flutter-boss-server) | heruijun |
+| [flutter_boss](https://github.com/heruijun/flutter_boss) | heruijun |
+| [SuperHeroInteraction](https://github.com/pinkeshdarji/SuperHeroInteraction) | pinkeshdarji |
+| [FlutterDragCard](https://github.com/HitenDev/FlutterDragCard) | HitenDev |
 
 ### 博客(Blog From Chinese)
 [Flutter自定义折线图并添加点击事件](https://juejin.im/post/5bf4a85b6fb9a049c84f1313)  
@@ -156,6 +161,33 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter自定义控件第一式，炫酷“蛛网”控件](https://juejin.im/post/5cb872075188253247129b87)  
 [使用Flutter仿写TikTok的手势交互](https://juejin.im/post/5cbadb71f265da037c7ce19f)  
 [一波Flutter酷炫特效来袭](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247487701&idx=1&sn=f9f650709cdc87fbaa83528e00f704dd&chksm=eb477c4bdc30f55d2329fb1d7240369eee0f9ff15bddca9a91a4abc880d052861d2738a576a4&scene=21#wechat_redirect)  
+[Flutter动画实现原理浅析](https://juejin.im/post/5cdbbc01f265da037b6134d9)  
+[Flutter之裁剪Image Widget](https://juejin.im/post/5ce665fce51d455cd73b9ffd)  
+[Flutter交互实战－即刻App探索页下拉＆拖拽效果](https://www.jianshu.com/p/4d1e81ab3f54)  
+[Flutter 仿掘金推特点赞按钮](https://juejin.im/post/5cee3b43e51d45773f2e8ed7)  
+[Flutter 仿掘金微信图片滑动退出页面效果](https://juejin.im/post/5cf62ab0e51d45776031afb2)  
+[在 Flutter 中实现一个浮动导航栏](https://juejin.im/post/5cece3ae6fb9a07ee30dfa33)  
+[Flutter RichText支持文本选择](https://juejin.im/post/5cff71d46fb9a07ea6486a0e)  
+[Flutter 下拉刷新花式玩法](https://juejin.im/post/5bebcc44f265da61682aedb8)  
+[Flutter之Button，宽度占满屏幕，四周带icon的Button](https://juejin.im/post/5d01f88ef265da1b855c50a2)  
+[Flutter | 状态管理指南篇——Provider](https://juejin.im/post/5d00a84fe51d455a2f22023f)  
+[在 Flutter 中实现一个无限轮播](https://juejin.im/post/5d01f3436fb9a07ee85c2444)  
+[Flutter插件开发之APK自动安装](https://juejin.im/post/5d021b68e51d45777621bb65)  
+[Flutter吸附效果如何实现](https://juejin.im/post/5d0274846fb9a07edd2a0d4c)  
+[移植一个抖音贴纸组件到Flutter](https://juejin.im/post/5d087bad5188257de35fd911)  
+[Flutter 基于Bloc框架的封装](https://juejin.im/post/5d0b460fe51d45775e33f573)  
+[Flutter：手把手教你实现一个仿 Flipboard 图片3D翻转动画](https://juejin.im/post/5d0b4e65e51d45105e0212d6)  
+[全网最全Flutter常用工具类](https://juejin.im/post/5d0f4c54f265da1bb31c426c)  
+[一篇看懂Android与Flutter之间的通信](https://juejin.im/post/5d04790a6fb9a07efa09164d)  
+[Flutter高内聚组件怎么做？闲鱼闲鱼打造开源高效方案！](https://juejin.im/post/5d11a57c6fb9a07efb6992be)  
+[使用Flutter开发Github客户端及学习历程的小结](https://juejin.im/post/5d14f3645188255c117c0fd6)  
+[从源码了解Flutter的渲染基础：Widget/Element/RenderObject](https://juejin.im/post/5d15c54ee51d457759648739)  
+[Flutter - 数据共享，通信，状态管理 - 01 - InheritedWidget](https://juejin.im/post/5d14e7d1f265da1b8c199d2b)  
+[[译] Flutter —— 根据不同屏幕尺寸高效的适配 UI](https://juejin.im/post/5d1626a15188255d6c21e806)  
+[Flutter 开发一个 GitHub 客户端OpenGit及学习总结](https://juejin.im/post/5d16167b5188255c442d18bd)  
+[flutter：教你自定义Dialog](https://juejin.im/post/5d19dce9f265da1b6f438d48)  
+[Flutter 动画全解析（动画四要素、动画组件、隐式动画组件原理等）](https://juejin.im/post/5d19fea65188255cfc1a0494)  
+[Dart基础系统学习](https://juejin.im/post/5d19dbf06fb9a07f014f0e46)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
@@ -168,6 +200,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [Flutter: Advance Routing and Navigator](https://medium.com/@nitishk72/flutter-advance-routing-and-navigator-df0f86f0974f)  
 [Flutter: My FutureBuilder Keeps Firing!](https://medium.com/saugo360/flutter-my-futurebuilder-keeps-firing-6e774830bc2)  
 [Clipping in Flutter](https://medium.com/flutter-community/clipping-in-flutter-e9eaa6b1721a)  
+[Flutter — LoadMore in ListView with Button and Autoload on Scroll](https://medium.com/@KarthikPonnam/flutter-loadmore-in-listview-23820612907d)  
 
 ### Blog From Stackoverflow
 [Equivalent of RelativeLayout in Flutter](https://stackoverflow.com/questions/44396075/equivalent-of-relativelayout-in-flutter)  
