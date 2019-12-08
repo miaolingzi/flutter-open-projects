@@ -218,6 +218,7 @@ A categorized collection of Flutter Open Source Projects and Blogs
 [用Java的方式模拟Flutter的Widget的实现(多层括号嵌套)](https://juejin.im/post/5d37231b6fb9a07f03577b65)  
 [（二）Flutter学习之Dart展开操作符 和 Control Flow Collections](https://juejin.im/post/5d36e51af265da1b5f2695c9)  
 [（一）Flutter学习之Dart变量和类型系统](https://juejin.im/post/5d36e4a2f265da1b715335df)  
+[Flutter 签字画板及屏幕或Widget截图](https://juejin.im/post/5dea67746fb9a016323d7005)  
 
 ### Blog From Medium
 [Flutter Animation : Creating medium’s clap animation in flutter](https://proandroiddev.com/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)  
